@@ -8,6 +8,13 @@ A comprehensive collection of resources, implementations, and best practices for
 
 ### Learn AI Engineering hands-on in my [End-to-end AI Engineering Bootcamp](https://maven.com/swirl-ai/end-to-end-ai-engineering).
 
+## Concepts
+
+### [Decision Models](decision_models)
+Learn how to use decision models in real AI Systems
+- [Explore The API](decision_models/notebooks/01-decision-model-apis.ipynb)
+- [Agentic RAG use cases](decision_models/notebooks/02-agentic-rag-usecases.ipynb)
+
 ## Projects
 
 ### [Building Agents from Scratch](building_agents_from_scratch)
